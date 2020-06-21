@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
 Tic Tac Toe is a very famouse game played with X's and O's with two players, I made a simple CLI version and then
-made a GUI version with pygame.
+made a GUI version with pygame and lastly added the Simple AI version.
 
 ## Installation
 
@@ -17,8 +17,13 @@ $ pip install pygame
 git clone https://github.com/AnimeshRy/Tic-Tac-Toe
 cd GUI
 python3 main.py
+cd AI
+python3 tic.py
 ```
 
-### Important
+### Version
 
-The Tic-Tac-Toe with AI is currently pending and will be uploaded in a few days.
+* Basic Two player CLI 
+* Two Player GUI Pygame
+* Simple AI CLI
+
