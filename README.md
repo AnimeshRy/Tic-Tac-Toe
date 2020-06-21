@@ -14,7 +14,7 @@ $ pip install pygame
 ## Usage
 
 ```
-git clone https://github.com/AnimeshRy/Scrapers-Python3
+git clone https://github.com/AnimeshRy/Tic-Tac-Toe
 cd GUI
 python3 main.py
 ```
