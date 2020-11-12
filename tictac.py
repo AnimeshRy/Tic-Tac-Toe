@@ -32,7 +32,9 @@ def game():
         print("It's your turn," + turn + ".Move to which place?")
 
         move = input()
-
+        if int(move) > 9:
+            print('Invalid Block')
+            continue
         if theBoard[move] == ' ':
             theBoard[move] = turn
             count += 1
